@@ -1,5 +1,5 @@
 const axios = require("axios");
-//sua chave aqui
+//aqui vai a chave
 const appid = "2bdaa27bcc6888303b468a3ddc10fec3";
 //inserir cidade para consultar informações
 const q = "Osasco";
