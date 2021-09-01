@@ -10,7 +10,7 @@ git config --global init.defaultBranch main # Configura a branch de iniciliazaç
 git branch -m main # Cria a branch de nome main
 git status # vê o estado dos arquivos
 touch file.js # maneira mais rápida de criar um arquivo
-(essa linha é opcional, só fiz pra preencher o arquivo) 
+# (essa linha é opcional, só fiz pra preencher o arquivo) 
 truncate -s 365 file.js # Modifica o valor de memória do arquivo
 ls -l # lista os arquivos com suas informações
 chmod 744 file.js # Mofifica as permissões do arquivo
